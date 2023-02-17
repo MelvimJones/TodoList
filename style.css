@@ -1,0 +1,37 @@
+body {
+    background-image: url("paper.gif");
+    background-color: #eaf2e5;
+}
+
+#Listas {
+    width: 338px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#containner {
+    text-align: center;
+}
+
+.input {
+    /* background-color: aqua; */
+    width: 350px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.botão{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.tarefa1{
+    text-align: initial;
+}
